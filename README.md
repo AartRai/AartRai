@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AartRai/AartRai/main/banner.jpg" alt="Aarti Rai Banner" width="100%" />
+</p>
+
 <div align="center">
 
 # ✨ Aarti Rai ✨
@@ -7,6 +11,7 @@
 
 *"Good Code, Brighter Tomorrows ♡"*
 
+[![Live Portfolio](https://img.shields.io/badge/🌐_Interactive_Portfolio-Live_Demo-38bdf8?style=for-the-badge&logoColor=white)](https://aartrai.github.io/AartRai/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarti--rai/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AartRai)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aartirai.dev@gmail.com)
@@ -17,11 +22,30 @@
 
 ### 👩‍💻 About Me
 
-I'm a Computer Science student who enjoys building full-stack projects, solving problems, and exploring the intersection of technology and real-world impact. From AI-powered tools to recruitment platforms, I love creating products that make a difference.
-
-- 🎓 **Education:** B.Tech in CSE at Lovely Professional University
-- 📍 **Location:** India
-- 💖 **Status:** Open to SDE opportunities — *Excited to build and grow!*
+<table>
+  <tr>
+    <td width="36%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/AartRai/AartRai/main/avatar.jpg" alt="Aarti Rai Avatar" width="100%" />
+    </td>
+    <td width="64%" valign="top">
+      <h3>Hey there, I'm Aarti Rai 👋</h3>
+      <p>I love building scalable web applications, exploring AI, and turning ideas into real-world products. Always curious, always learning.</p>
+      <p>
+        🎓 <b>Education:</b> B.Tech in CSE at Lovely Professional University<br/>
+        📍 <b>Location:</b> India<br/>
+        💼 <b>Status:</b> Open to SDE opportunities — <i>Excited to build and grow!</i>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ```javascript
 const aarti = {
