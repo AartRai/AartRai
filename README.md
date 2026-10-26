@@ -1,15 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AartRai/AartRai/main/banner.jpg" alt="Aarti Rai Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/AartRai/AartRai/main/banner.png" alt="Aarti Rai Banner" width="100%" />
 </p>
 
 <div align="center">
 
-# ✨ Aarti Rai ✨
 ### Full-Stack Developer | AI Enthusiast | Problem Solver
-
-**BUILD • LEARN • GROW • REPEAT**
-
-*"Good Code, Brighter Tomorrows ♡"*
 
 [![Live Portfolio](https://img.shields.io/badge/🌐_Interactive_Portfolio-Live_Demo-38bdf8?style=for-the-badge&logoColor=white)](https://aartrai.github.io/AartRai/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarti--rai/)
